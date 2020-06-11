@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Capstone\Project 2\SomeKindaHero\SomeKindOfHero\Source.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+D:\Capstone\Project 2\SomeKindaHero\SomeKindOfHero\Source.cpp(448,6): warning C4101: 'check': unreferenced local variable
+D:\Capstone\Project 2\SomeKindaHero\SomeKindOfHero\Source.cpp(476,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SomeKindOfHero.vcxproj -> D:\Capstone\Project 2\SomeKindaHero\SomeKindOfHero\Debug\SomeKindOfHero.exe
